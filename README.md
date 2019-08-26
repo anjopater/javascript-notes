@@ -7,6 +7,6 @@ Notes about importants topics of Javascript
 * [Clourse and Scope - exercises](https://github.com/Bloc/mentor-exercises/blob/master/exercises/javascript/closure-scoping-exercises.md)
 
 
-## Sorting Algorithms
+## Algorithms
 
-[Sorting Algorithms](https://github.com/yeb9925/sorting-algorithms-javascript)
+* [Sorting Algorithms](https://github.com/yeb9925/sorting-algorithms-javascript)
