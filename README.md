@@ -10,3 +10,12 @@ Notes about importants topics of Javascript
 ## Algorithms
 
 * [Sorting Algorithms](https://github.com/yeb9925/sorting-algorithms-javascript)
+
+
+## Arrow functions
+- Are always anonymous functions
+- You can use in function and arrow defaults arguments like (a = 0, r = 0,1)
+- Don´t use arraw function "when you really need `this`" and "when you need a method to bind to an object"
+- In arrow functions the this is not bound for example in an on event..
+- When you need to add prototype method
+- When you need the keyword 'arguments' objects
