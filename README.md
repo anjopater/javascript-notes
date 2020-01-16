@@ -28,3 +28,7 @@ Notes about importants topics of Javascript
     reject('err');
  })
 })` 
+
+## Prototype
+object.prototype.name = function () { }
+
