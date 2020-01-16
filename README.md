@@ -19,3 +19,12 @@ Notes about importants topics of Javascript
 - In arrow functions the this is not bound for example in an on event..
 - When you need to add prototype method
 - When you need the keyword 'arguments' objects
+
+
+# Promises
+
+`const p = new Promises((resolve, reject)=>{
+ setTimeOut(()=>{
+    reject('err');
+ })
+})` 
