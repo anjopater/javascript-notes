@@ -1,4 +1,4 @@
-# javascript-notes
+# Javascript-notes
 
 Notes about importants topics of Javascript 
 
@@ -32,3 +32,5 @@ Notes about importants topics of Javascript
 ## Prototype
 object.prototype.name = function () { }
 
+## Generators
+- Generators are functions which can be exited and later re-entered. Their context (variable bindings) will be saved across re-entrances
