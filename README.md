@@ -34,3 +34,6 @@ object.prototype.name = function () { }
 
 ## Generators
 Generators are functions which can be exited and later re-entered. Their context (variable bindings) will be saved across re-entrances
+
+## Proxies
+Ovewrite default behavior in objects
