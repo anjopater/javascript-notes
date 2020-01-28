@@ -21,7 +21,7 @@ Notes about importants topics of Javascript
 - When you need the keyword 'arguments' objects
 
 
-# Promises
+## Promises
 
 `const p = new Promises((resolve, reject)=>{
  setTimeOut(()=>{
