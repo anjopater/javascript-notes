@@ -41,3 +41,7 @@ Ovewrite default behavior in objects
 ##Async & Await
 
 
+
+##Your own library
+https://hackernoon.com/a-complete-workshop-build-your-es6-code-into-a-library-using-webpack-80295faeb833
+
