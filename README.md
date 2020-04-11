@@ -38,10 +38,11 @@ Generators are functions which can be exited and later re-entered. Their context
 ## Proxies
 Ovewrite default behavior in objects
 
-##Async & Await
+## Async & Await
 
 
 
-##Your own library
+## Your own library
 https://hackernoon.com/a-complete-workshop-build-your-es6-code-into-a-library-using-webpack-80295faeb833
+https://egghead.io/lessons/javascript-creating-the-library-and-adding-dependencies
 
