@@ -46,3 +46,6 @@ Ovewrite default behavior in objects
 https://hackernoon.com/a-complete-workshop-build-your-es6-code-into-a-library-using-webpack-80295faeb833
 https://egghead.io/lessons/javascript-creating-the-library-and-adding-dependencies
 
+#js tricks
+https://betterprogramming.pub/10-modern-javascript-tricks-every-developer-should-use-377857311d79
+
