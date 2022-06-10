@@ -49,3 +49,6 @@ https://egghead.io/lessons/javascript-creating-the-library-and-adding-dependenci
 #js tricks
 https://betterprogramming.pub/10-modern-javascript-tricks-every-developer-should-use-377857311d79
 
+
+## Math in js
+https://runjs.app/blog/mathematical-notation-for-javascript-developers-explained
