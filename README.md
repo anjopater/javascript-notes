@@ -52,3 +52,4 @@ https://betterprogramming.pub/10-modern-javascript-tricks-every-developer-should
 
 ## Math in js
 https://runjs.app/blog/mathematical-notation-for-javascript-developers-explained
+https://github.com/Jam3/math-as-code
